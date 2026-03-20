@@ -1,0 +1,6 @@
+# Biblioteca para interagir com a API do Google Gemini
+google-genai
+# Biblioteca para carregar variáveis de ambiente de um arquivo .env
+python-dotenv
+# Framework para visualização web e interface frontend
+streamlit
