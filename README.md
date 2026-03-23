@@ -93,8 +93,8 @@ Essa interface vai se desdobrar automaticamente até criar uma nova guia rápida
 
 Integrantes do grupo:
 
-- Marcos Paulo Vimieiro Silva (código do aluno: 229546)
-- Bruno Henrique Ribeiro da Paixão (código do aluno: 229499)
-- João Paulo Silva Borges (código do aluno: 229201)
-- Vitor Passos de Moraes (código do aluno: 238414)
-- Gustavo Tartaglia Silva de Paula (código do aluno: 229428)
+- Marcos Paulo Vimieiro Silva (código da matrícula: 229546)
+- Bruno Henrique Ribeiro da Paixão (código da matrícula: 229499)
+- João Paulo Silva Borges (código da matrícula: 229201)
+- Vitor Passos de Moraes (código da matrícula: 238414)
+- Gustavo Tartaglia Silva de Paula (código da matrícula: 229428)
