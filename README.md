@@ -2,7 +2,7 @@
 
 ## 📖 Visão Geral
 
-O **genai-copilot-lab** é um projeto avançado de Inteligência Artificial Generativa direcionado à **Engenharia de Software**. O seu propósito é atuar como um assistente virtual totalmente autônomo através do paradigma **ReAct (Reasoning + Acting)**.
+O **react-ai-documentation-agent** é um projeto avançado de Inteligência Artificial Generativa direcionado à **Engenharia de Software**. O seu propósito é atuar como um assistente virtual totalmente autônomo através do paradigma **ReAct (Reasoning + Acting)**.
 
 A principal missão deste agente é realizar a geração, atualização e manutenção automatizada de documentação técnica de software. Ele interage dinamicamente com o repositório, inspecionando o código-fonte, mapeando diretórios e analisando o histórico do Git (commits e diffs) para formular suas próprias deduções e gerar relatórios consistentes em Markdown, minimizando a dependência de um usuário prestando contextos.
 
