@@ -97,4 +97,4 @@ Integrantes do grupo:
 - Bruno Henrique Ribeiro da Paixão (código do aluno: 229499)
 - João Paulo Silva Borges (código do aluno: 1600839)
 - Vitor Passos de Moraes (código do aluno: 991298)
-- Gustavo Tartaglia Silva de Paula (código do aluno: 1600995)
+- Gustavo Tartaglia Silva de Paula (código do aluno: 229428)
